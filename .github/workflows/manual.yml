@@ -23,7 +23,7 @@ jobs:
   # This workflow contains a single job called "greet"
   greet:
     # The type of runner that the job will run on
-    runs-on: DESKTOP-2B0UH1H self-hosted Windows X64
+    runs-on: self-hosted Windows X64
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
