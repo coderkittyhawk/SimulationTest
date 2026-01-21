@@ -13,4 +13,4 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - name: Running script
         run: |
-          python RunAllTests
+          python RunAllTests.py
